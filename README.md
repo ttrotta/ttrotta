@@ -1,6 +1,6 @@
 # Hola! I'm Thiago Trotta  
 
-I'm a **Software Engineering student** at ![Universidad Nacional del Sur](https://www.uns.edu.ar/), interested in **system architecture, backend development, and clean code practices**. 
+I'm a **Software Engineering student** at [Universidad Nacional del Sur](https://www.uns.edu.ar/), interested in **system architecture, backend development, and clean code practices**. 
 
 > **Portfolio in progress** – Stay tuned!
 
@@ -28,4 +28,4 @@ I'm a **Software Engineering student** at ![Universidad Nacional del Sur](https:
 
 ---
 
-Thanks for visiting my profile! Have a great day 🚀
+If it compiles it's fine, if it boots it's perfect. 
