@@ -1,13 +1,13 @@
-# Hi there, I'm Thiago Trotta 👋  
+# Hola! I'm Thiago Trotta  
 
-I'm a passionate **Software Engineering student** with a strong interest in **system architecture, backend development, and clean code practices**. I enjoy tackling complex challenges and continually improving my skills through real-world applications and academic projects.
+I'm a **Software Engineering student** at ![Universidad Nacional del Sur](https://www.uns.edu.ar/), interested in **system architecture, backend development, and clean code practices**. 
 
 > **Portfolio in progress** – Stay tuned!
 
 ---
 
-### 🚀 A little about me
-- 🔹 Always learning and exploring new **technologies** and **best practices**  
+### 🐣 A little about me
+- 🔹 Currently developing the **supply-tracker-system** project with **Spring Boot, React and PostgreSQL**  
 - 🔹 I have knowledge in: **Data Structures, Computability Theory, Operating Systems, Computer Architecture, Databases, System Requirements, Advanced Mathematics**  
 - 🔹 Feel free to reach out: **trottathiago1@gmail.com**
 
