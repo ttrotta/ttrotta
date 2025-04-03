@@ -25,7 +25,3 @@ I'm a **Software Engineering student** at [Universidad Nacional del Sur](https:/
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-If it compiles it's fine, if it boots it's perfect. 
