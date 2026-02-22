@@ -11,7 +11,7 @@ Full Stack Developer | Information Systems Engineering Student
 
 - **System.Status:** Advanced student (5th year) of Information Systems Engineering at UNS.
 - **Current_Processes:** - Building scalable web apps with modern stacks (TypeScript, Next.js).
-- Integrating ML and LLMs for enhanced development workflows.
+- Fetching latest AI protocols: Actively exploring Claude Code, MCP, and Agentic frameworks to automate complex workflows.
 - **Subroutines:** Teaching Assistant in University.
 ---
 
@@ -31,5 +31,3 @@ Full Stack Developer | Information Systems Engineering Student
 | **[Sky Reach](https://sky-reach.vercel.app/)** | Drone e-commerce platform. | Next.js, TS, PostgreSQL |
 | **[Study Sessions](https://studysessions.onrender.com/)** | Productivity and timer app. | React, Node.js, Express |
 | **[ ??? ]** | *[ Executing 2026 roadmap_ ]* |
-
-> *Full project directory available at [portfolio-sooty-ten-8wlj6wyyny.vercel.app](https://portfolio-sooty-ten-8wlj6wyyny.vercel.app/)*
