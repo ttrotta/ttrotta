@@ -9,7 +9,7 @@ Full Stack Developer | Information Systems Engineering Student
 
 ### >_ cat ~/about_me.txt
 
-- **System.Status:** Advanced student (5th year) of Information Systems Engineering at UNS.
+- **System.Status:** Advanced student (5th year) of Software Engineering at UNS.
 - **Current_Processes:** - Building scalable web apps with modern stacks (TypeScript, Next.js).
 - Fetching latest AI protocols: Actively exploring Claude Code, MCP, and Agentic frameworks to automate complex workflows.
 - **Subroutines:** Teaching Assistant in University.
