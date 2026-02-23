@@ -3,7 +3,7 @@
 **Thiago Trotta**
 Full Stack Developer | Information Systems Engineering Student
 
-[execute portfolio.sh ](https://portfolio-sooty-ten-8wlj6wyyny.vercel.app/)
+[execute portfolio.sh ](https://thiagotrotta.vercel.app/)
 
 ---
 
