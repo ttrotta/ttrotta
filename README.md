@@ -30,4 +30,4 @@ Full Stack Developer | Information Systems Engineering Student
 | **[Interactive Portfolio](https://portfolio-sooty-ten-8wlj6wyyny.vercel.app/)** | Immersive personal site with 3D rendering and advanced scroll animations. | Next.js, TS, GSAP, React Three Fiber |
 | **[Sky Reach](https://sky-reach.vercel.app/)** | Drone e-commerce platform. | Next.js, TS, PostgreSQL |
 | **[Study Sessions](https://studysessions.onrender.com/)** | Productivity and timer app. | React, Node.js, Express |
-| **[ ??? ]** | *[ Executing 2026 roadmap_ ]* |
+| **[What is this Pain?](https://github.com/ttrotta/witp)** | Interactive app to track body pain using Agents | Currently in development
