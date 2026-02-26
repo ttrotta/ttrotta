@@ -1,7 +1,7 @@
 ### >_ whoami
 
 **Thiago Trotta**
-Full Stack Developer | Information Systems Engineering Student
+Full Stack Developer | Advanced Software Engineering Student
 
 [execute portfolio.sh ](https://thiagotrotta.vercel.app/)
 
